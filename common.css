@@ -10,7 +10,7 @@ body { background: linear-gradient(180deg, #9ccaf0 0, #fff 100%) no-repeat; }
         border: 1px solid #e7e7e7;
         background: #fff; }
 /* 헤더 */
-#mainHeader { height: 279px; background: url(../images/bg_header.png) no-repeat; }
+#mainHeader { height: 279px; background: url(images/bg_header.png) no-repeat; }
 #mainHeader h1 { padding: 20px 0 0 20px; color: #ff0;
                 font-size: 70px; }
 /* 메인메뉴 */
